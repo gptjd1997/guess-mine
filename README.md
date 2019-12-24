@@ -2,5 +2,5 @@
 
 - [x] environment setting
 - [x] express setting
-- [ ] frontend
-- [ ] socket.io
+- [x] static
+- [x] socket.io
